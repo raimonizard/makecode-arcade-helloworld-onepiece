@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://raimonizard.github.io/helloworld-onepiece-makecode-arcade/](https://raimonizard.github.io/helloworld-onepiece-makecode-arcade/)
+> Open this page at [https://raimonizard.github.io/helloworld-onepiece-makecode-arcade/](https://raimonizard.github.io/makecode-arcade-helloworld-onepiece/)
 
 ## Use as Extension
 
